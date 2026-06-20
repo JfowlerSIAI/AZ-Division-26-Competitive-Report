@@ -6,7 +6,7 @@ age category.
 
 **View it:** https://jfowlersiai.github.io/AZ-Division-26-Competitive-Report/
 
-Points: `max(1, (fencers beaten + 1) × event-difficulty)`, cumulative; Arizona Division fencers only
-(roster members plus those competing for an Arizona club). Junior-age and younger fencers are shown as
+Points: `max(1, (fencers beaten + 1) × event-difficulty)`, cumulative; Arizona Division competitors only
+(roster members and others fencing for an Arizona club). Junior-age and younger fencers are shown as
 first name + last initial.
 Methodology and findings are in the report's final section.
