@@ -7,4 +7,5 @@ age category.
 **View it:** https://jfowlersiai.github.io/AZ-Division-26-Competitive-Report/
 
 Points: `max(1, (fencers beaten + 1) × event-difficulty)`, cumulative; AZ Division fencers only
-(eligibility by Division membership). Methodology and findings are in the report's final section.
+(eligibility by Division membership). Under-19 fencers are shown as first name + last initial.
+Methodology and findings are in the report's final section.
